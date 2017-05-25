@@ -12,6 +12,7 @@
 		2696C9921ED7381E007C9719 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2696C9901ED7381E007C9719 /* Main.storyboard */; };
 		2696C9941ED7381E007C9719 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2696C9931ED7381E007C9719 /* Assets.xcassets */; };
 		2696C9971ED7381E007C9719 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2696C9951ED7381E007C9719 /* LaunchScreen.storyboard */; };
+		2696C99F1ED7384A007C9719 /* sendingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2696C99E1ED7384A007C9719 /* sendingViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		2696C9931ED7381E007C9719 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2696C9961ED7381E007C9719 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2696C9981ED7381E007C9719 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2696C99E1ED7384A007C9719 /* sendingViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = sendingViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				2696C9931ED7381E007C9719 /* Assets.xcassets */,
 				2696C9951ED7381E007C9719 /* LaunchScreen.storyboard */,
 				2696C9981ED7381E007C9719 /* Info.plist */,
+				2696C99E1ED7384A007C9719 /* sendingViewController.swift */,
 			);
 			path = protocalPractice;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			files = (
 				2696C98F1ED7381E007C9719 /* ViewController.swift in Sources */,
 				2696C98D1ED7381E007C9719 /* AppDelegate.swift in Sources */,
+				2696C99F1ED7384A007C9719 /* sendingViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
